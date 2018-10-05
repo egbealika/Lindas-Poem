@@ -1,4 +1,4 @@
-Linda and Likes
+Linda and Likes and Dislikes
 
 She's a girl
 She's rich
@@ -7,3 +7,4 @@ She's powerful
 She's beautiful
 These are the characteristics of Linda.
 And the Likes.
+And the Dislikes
